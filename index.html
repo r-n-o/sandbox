@@ -52,7 +52,7 @@
         if (secret === null) {
             const secret = crypto.randomUUID();
             window.localStorage.setItem(LOCAL_STORAGE_KEY, secret);
-            console.log(`New secret generated and persisted in localstorage ${newSecret}`);
+            console.log(`New secret generated and persisted in localstorage ${secret}`);
         } else {
             console.log(`Secret retrieved from localstorage: ${secret}`);
         }
