@@ -2,4 +2,4 @@
 
 Sandbox repo for experiments!
 
-Deployed on github pages: https://r-n-o.github.io/localstorage/
+Deployed on github pages: https://r-n-o.github.io/sandbox/
